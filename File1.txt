@@ -6,8 +6,6 @@ Syatem.out.println("Abc");
 //Prateeksha
 Text3()
 {
-System.out.println("Prateeksha");
-System.out.println("");
-
+Syatem.out.println("Prateeksha");
 }
 
